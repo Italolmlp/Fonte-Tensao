@@ -3,7 +3,9 @@
 
 Tudo se iniciou com algumas pesquisas para encontrar componentes favoráveis para o circuito.
 Primeiramente, foi necessário escolher a razão do transformador.
-![](tranformador.jpg)
+
+## Imagem das contas do transformador
+![Transfomador](Resources/tranformador.png)
 
 | Componnetes | Preço (R$) | Unidades | P/ Unidades |
 | ------------| ----------:| --------:| -----------:|
