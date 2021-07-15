@@ -5,7 +5,10 @@ Tudo se iniciou com algumas pesquisas para encontrar componentes favoráveis par
 Primeiramente, foi necessário escolher a razão do transformador.
 
 ## Imagem das contas do transformador
-![Transfomador](Resources/tranformador.png)
+![Transfomador](./Resources/transformador.png)
+
+
+
 
 | Componnetes | Preço (R$) | Unidades | P/ Unidades |
 | ------------| ----------:| --------:| -----------:|
