@@ -14,3 +14,7 @@ Primeiramente, foi necessário escolher a razão do transformador.
 
 ## Imagem das contas do transformador
 ![Transfomador](./Resources/transformador.png)
+
+
+## Imagem das contas para escolha do resistor em série ao LED
+![LED](.Resources/LED.png)
