@@ -12,9 +12,9 @@ Primeiramente, foi necessário escolher a razão do transformador.
 |      1     | Resistor 1k       |     0,14   |     1    |    [0,14](https://tinyurl.com/8ce83965)|
 |      1     | Resistor 2.2k     |    12,15   |    15    |    [0,81](https://tinyurl.com/7rjcf57y)|
 
-## Imagem das contas do transformador
+## Contas do transformador
 ![Transfomador](./Resources/transformador.png)
 
 
-## Imagem das contas para escolha do resistor em série ao LED
-![LED](.Resources/LED.png)
+## Contas para escolha do resistor em série ao LED
+![LED](./Resources/LED.png)
