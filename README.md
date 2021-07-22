@@ -1,8 +1,9 @@
 # Projeto Fonte de Tensão ajustável
 ##### Esse projeto tem por finalidade a montagem de uma fonte de tensão ajustável, variando de 3V até 12V, chegando aos 100mA.
+## [Link para o circuito no Falstad](https://tinyurl.com/ydktsdh4)
 
 # Componentes utilizados e seus preços
-| Quantidade | Componnetes       | Preço (R$) | Unidades | P/ Total (R$)                                  |
+| Quantidade | Componnetes       | Preço (R$) | Unidades | P/ Total (R$)                              |
 | ----------:| ------------------| ----------:| --------:| ------------------------------------------:|
 |      1     | Diodo Zener       |     0,19   |     1    |    [0,19](https://tinyurl.com/9xtt65xy)    |
 |      1     | Capacitor (470uF) |     0,81   |     1    |    [0,81](https://tinyurl.com/a4569se8)    |
