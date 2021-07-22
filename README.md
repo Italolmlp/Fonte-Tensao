@@ -1,6 +1,6 @@
 # Projeto Fonte de Tensão ajustável
 ##### Esse projeto tem por finalidade a montagem de uma fonte de tensão ajustável, variando de 3V até 12V, chegando aos 100mA.
-## [Link para o circuito no Falstad](https://tinyurl.com/nndfvm7u)
+## [Link para o circuito no Falstad](https://tinyurl.com/ygatcbtn)
 
 # Componentes utilizados e seus preços
 | Quantidade | Componnetes       | Preço (R$) | Unidades | P/ Total (R$)                              |
