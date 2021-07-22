@@ -4,7 +4,7 @@
 # Componentes utilizados e seus preços
 | Quantidade | Componnetes       | Preço (R$) | Unidades | P/ Total                                   |
 | ----------:| ------------------| ----------:| --------:| ------------------------------------------:|
-|      1     | Diodo Zener       |     9,90   |    10    |    [0,99](https://tinyurl.com/u995ytx4)    |
+|      1     | Diodo Zener       |     0,19   |     1    |    [0,19](https://tinyurl.com/9xtt65xy)    |
 |      1     | Capacitor (470uF) |     0,81   |     1    |    [0,81](https://tinyurl.com/a4569se8)    |
 |      1     | LED (Vermelho)    |     0,23   |     1    |    [0,23](https://tinyurl.com/32bxy5f6)    |
 |      1     | Resistor 1k       |     0,14   |     1    |    [0,14](https://tinyurl.com/8ce83965)    |
