@@ -17,6 +17,9 @@
 |      1     | Fusível (0.5A)    |     0,18   |     1    |    [0,18](https://tinyurl.com/3sz9uz65)    |
 
 
+## Imagem do circuito completo
+![Circuito completo](./Resources/circuito.png)
+
 ## Contas do transformador
 ![Transfomador](./Resources/transformador.png)
 
