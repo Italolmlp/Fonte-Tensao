@@ -22,5 +22,7 @@
 ## Contas para escolha do resistor em série ao LED
 ![LED](./Resources/LED.png)
 
+## Foi escolhido um Diodo Zener de 13V, pois com a queda de tensão do transistor ficava muito próximo de 12V na saída, o que era exatamente o que queríamos.
+
 ## Contas do potenciômetro e o resistor em série 
 ![Potenciômetro](./Resources/potenciometro.png)
