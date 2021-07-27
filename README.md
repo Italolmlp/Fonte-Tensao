@@ -20,12 +20,29 @@
 ## Imagem do circuito completo
 ![Circuito completo](./Resources/circuito.png)
 
+## Imagem do circuito esquemático
+<img src="./Resources/circuito_esquematico.jpg"
+     alt="Esquemático" />
+
+## Imagem circuito PCB
+<img src="./Resources/circuito_pcb.jpg"
+     alt="Circuito PCB" />
+
 ## Contas para achar os valores ideais dos componentes
 <img src="./Resources/contas_parte_1.jpg"
      alt="Contas parte 1"
-     height="650"
-     widht="650" />
+     height="800"
+     widht="800" />
 <img src="./Resources/contas_parte_2.jpg"
      alt="Contas parte 2"
-     height="650"
-     widht="650" />
+     height="800"
+     widht="800" />
+     
+# Agradecimentos
+Agradecemos a supervisão do Simões pela grande ajuda no desenvolvimento desse projeto.
+
+André Matsumoto - N°USP 12542689
+
+Antonio Italo L. Lopes - N°USP 12542290
+
+Fellip Silva Alves - N°USP 12543551
