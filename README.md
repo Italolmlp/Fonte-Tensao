@@ -20,14 +20,12 @@
 ## Imagem do circuito completo
 ![Circuito completo](./Resources/circuito.png)
 
-## Contas do transformador
-![Transfomador](./Resources/transformador.png)
-
-
-## Contas para escolha do resistor em série ao LED
-![LED](./Resources/LED.png)
-
-## Foi escolhido um Diodo Zener de 13V, pois com a queda de tensão do transistor ficava muito próximo de 12V na saída, o que era exatamente o que queríamos.
-
-## Contas do potenciômetro e o resistor em série 
-![Potenciômetro](./Resources/potenciometro.png)
+## Contas para achar os valores ideais dos componentes
+<img src="./Resources/contas_parte_1.jpg"
+     alt="Contas parte 1"
+     height="650"
+     widht="650" />
+<img src="./Resources/contas_parte_2.jpg"
+     alt="Contas parte 2"
+     height="650"
+     widht="650" />
